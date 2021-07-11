@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ParkingLots" id="ParkingLots">
+	<SimpleField name="מס'" type="int"></SimpleField>
+	<SimpleField name="שם חניה" type="string"></SimpleField>
+	<SimpleField name="כתובת" type="string"></SimpleField>
+	<SimpleField name="LAT" type="float"></SimpleField>
+	<SimpleField name="LONG" type="float"></SimpleField>
+	<SimpleField name="בתשלום" type="string"></SimpleField>
+	<SimpleField name="אחר" type="string"></SimpleField>
+</Schema>
+<Folder><name>ParkingLots</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">1</SimpleData>
+		<SimpleData name="שם חניה">חניון ביאליק</SimpleData>
+		<SimpleData name="כתובת">ביאליק 22</SimpleData>
+		<SimpleData name="LAT">32.020031</SimpleData>
+		<SimpleData name="LONG">34.746639</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.746639,32.020031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">2</SimpleData>
+		<SimpleData name="שם חניה">חניון גן אשכול</SimpleData>
+		<SimpleData name="כתובת">בר אילן 40 מול 57</SimpleData>
+		<SimpleData name="LAT">32.01301</SimpleData>
+		<SimpleData name="LONG">34.74609</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.74609,32.01301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">3</SimpleData>
+		<SimpleData name="שם חניה">חניון העמדות</SimpleData>
+		<SimpleData name="כתובת">העמדות 3</SimpleData>
+		<SimpleData name="LAT">32.03025</SimpleData>
+		<SimpleData name="LONG">34.7464</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7464,32.03025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">4</SimpleData>
+		<SimpleData name="שם חניה">חניון חשמונאים</SimpleData>
+		<SimpleData name="כתובת">החשמונאים 27</SimpleData>
+		<SimpleData name="LAT">32.01957</SimpleData>
+		<SimpleData name="LONG">34.75138</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.75138,32.01957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">5</SimpleData>
+		<SimpleData name="שם חניה">חניון בניין העירייה </SimpleData>
+		<SimpleData name="כתובת">נורדאו 17</SimpleData>
+		<SimpleData name="LAT">32.01611</SimpleData>
+		<SimpleData name="LONG">34.74113</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.74113,32.01611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">6</SimpleData>
+		<SimpleData name="שם חניה">חניון אורט ישראל 1</SimpleData>
+		<SimpleData name="כתובת">אורט ישראל מול 3 א</SimpleData>
+		<SimpleData name="LAT">32.01452</SimpleData>
+		<SimpleData name="LONG">34.75207</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.75207,32.01452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">7</SimpleData>
+		<SimpleData name="שם חניה">חניון אורט ישראל 2</SimpleData>
+		<SimpleData name="כתובת">אורט ישראל מול 3 ל</SimpleData>
+		<SimpleData name="LAT">32.01761</SimpleData>
+		<SimpleData name="LONG">34.75547</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.75547,32.01761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">8</SimpleData>
+		<SimpleData name="שם חניה">חניון החברה הכלכלית (גנרל קנינג)</SimpleData>
+		<SimpleData name="כתובת">גנרל קניג 7</SimpleData>
+		<SimpleData name="LAT">32.00919</SimpleData>
+		<SimpleData name="LONG">34.74576</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.74576,32.00919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">9</SimpleData>
+		<SimpleData name="שם חניה">חניון גינת גביזון</SimpleData>
+		<SimpleData name="כתובת">גביזון 3</SimpleData>
+		<SimpleData name="LAT">32.02737</SimpleData>
+		<SimpleData name="LONG">34.75715</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.75715,32.02737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">10</SimpleData>
+		<SimpleData name="שם חניה">חניון זמני (הנביאים) , לא מוסדר</SimpleData>
+		<SimpleData name="כתובת">הנביאים לכיוון ראשון לציון</SimpleData>
+		<SimpleData name="LAT">32.01061</SimpleData>
+		<SimpleData name="LONG">34.74488</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.74488,32.01061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">11</SimpleData>
+		<SimpleData name="שם חניה">חניון היכל התרבות</SimpleData>
+		<SimpleData name="כתובת">סטרומה 1</SimpleData>
+		<SimpleData name="LAT">32.021</SimpleData>
+		<SimpleData name="LONG">34.75709</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.75709,32.021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">12</SimpleData>
+		<SimpleData name="שם חניה">חניון המכללה</SimpleData>
+		<SimpleData name="כתובת">רהב 7</SimpleData>
+		<SimpleData name="LAT">32.02228</SimpleData>
+		<SimpleData name="LONG">34.75828</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.75828,32.02228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">13</SimpleData>
+		<SimpleData name="שם חניה">חניון בתי המשפט</SimpleData>
+		<SimpleData name="כתובת">הסוללים מול 7</SimpleData>
+		<SimpleData name="LAT">32.00787</SimpleData>
+		<SimpleData name="LONG">34.74722</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.74722,32.00787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">14</SimpleData>
+		<SimpleData name="שם חניה">חניון אורות התורה</SimpleData>
+		<SimpleData name="כתובת">אנה פרנק 22</SimpleData>
+		<SimpleData name="LAT">32.00594</SimpleData>
+		<SimpleData name="LONG">34.75418</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.75418,32.00594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">15</SimpleData>
+		<SimpleData name="שם חניה">חניון הקאנטרי</SimpleData>
+		<SimpleData name="כתובת">מנחם בגין</SimpleData>
+		<SimpleData name="LAT">32.0004</SimpleData>
+		<SimpleData name="LONG">34.74533</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.74533,32.0004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">16</SimpleData>
+		<SimpleData name="שם חניה">חניון חוף תאיו</SimpleData>
+		<SimpleData name="כתובת">דרך בן גוריון 62</SimpleData>
+		<SimpleData name="LAT">32.01692</SimpleData>
+		<SimpleData name="LONG">34.7386</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.7386,32.01692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">17</SimpleData>
+		<SimpleData name="שם חניה">חניון החוף הנפרד</SimpleData>
+		<SimpleData name="כתובת">החוף הנפרד</SimpleData>
+		<SimpleData name="LAT">32.009705</SimpleData>
+		<SimpleData name="LONG">34.73851</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.73851,32.009705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">18</SimpleData>
+		<SimpleData name="שם חניה">חניון קולוני ביץ'</SimpleData>
+		<SimpleData name="כתובת">דרך בן גוריון 138</SimpleData>
+		<SimpleData name="LAT">32.01065</SimpleData>
+		<SimpleData name="LONG">34.73825</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.73825,32.01065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">19</SimpleData>
+		<SimpleData name="שם חניה">חניון נורדאו</SimpleData>
+		<SimpleData name="כתובת">כניסה לחניון</SimpleData>
+		<SimpleData name="LAT">32.01528</SimpleData>
+		<SimpleData name="LONG">34.74075</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.74075,32.01528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">20</SimpleData>
+		<SimpleData name="שם חניה">חניון ירושלים</SimpleData>
+		<SimpleData name="כתובת">מול חוף ירושלים</SimpleData>
+		<SimpleData name="LAT">32.028309</SimpleData>
+		<SimpleData name="LONG">34.741436</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.741436,32.028309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">21</SimpleData>
+		<SimpleData name="שם חניה">חניון המגדלי הים התיכון</SimpleData>
+		<SimpleData name="כתובת">הים 2</SimpleData>
+		<SimpleData name="LAT">32.02888</SimpleData>
+		<SimpleData name="LONG">34.74196</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.74196,32.02888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">22</SimpleData>
+		<SimpleData name="שם חניה">חניון הסי פלאס</SimpleData>
+		<SimpleData name="כתובת">מול חוף סי פאלאס</SimpleData>
+		<SimpleData name="LAT">32.030673</SimpleData>
+		<SimpleData name="LONG">34.741863</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+		<SimpleData name="אחר">לתושבי העיר בחינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.741863,32.030673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">23</SimpleData>
+		<SimpleData name="שם חניה">חניון קניון בת ימון</SimpleData>
+		<SimpleData name="כתובת">הרב ניסנבאום 35</SimpleData>
+		<SimpleData name="LAT">32.00715</SimpleData>
+		<SimpleData name="LONG">34.75616</SimpleData>
+		<SimpleData name="בתשלום">לא\כן</SimpleData>
+		<SimpleData name="אחר">שעה וחצי ראשונות חינם</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.75616,32.00715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">24</SimpleData>
+		<SimpleData name="שם חניה">חניון היכל המשפט</SimpleData>
+		<SimpleData name="כתובת">ניסנבאום</SimpleData>
+		<SimpleData name="LAT">32.006805</SimpleData>
+		<SimpleData name="LONG">34.748959</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.748959,32.006805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">25</SimpleData>
+		<SimpleData name="שם חניה">חניון בת ים</SimpleData>
+		<SimpleData name="כתובת">מוהליבר 11</SimpleData>
+		<SimpleData name="LAT">32.00633</SimpleData>
+		<SimpleData name="LONG">34.75073</SimpleData>
+		<SimpleData name="בתשלום">לא</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.75073,32.00633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">26</SimpleData>
+		<SimpleData name="שם חניה">חניון רוטשילד בת ים</SimpleData>
+		<SimpleData name="כתובת">רוטשילד 29</SimpleData>
+		<SimpleData name="LAT">32.02716</SimpleData>
+		<SimpleData name="LONG">34.74684</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.74684,32.02716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">27</SimpleData>
+		<SimpleData name="שם חניה">חניון של החנות שוק סטוק </SimpleData>
+		<SimpleData name="כתובת">רוטשילד 27, הלפר 26</SimpleData>
+		<SimpleData name="LAT">32.02705</SimpleData>
+		<SimpleData name="LONG">34.74616</SimpleData>
+		<SimpleData name="בתשלום">לא</SimpleData>
+		<SimpleData name="אחר">ללקוחות החנות</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.74616,32.02705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">28</SimpleData>
+		<SimpleData name="שם חניה">חניון תחנת רכבת בת ים יוספטל </SimpleData>
+		<SimpleData name="כתובת">מול תחנת רכבת בת ים יוספטל </SimpleData>
+		<SimpleData name="LAT">32.015648</SimpleData>
+		<SimpleData name="LONG">34.756407</SimpleData>
+		<SimpleData name="בתשלום">לא</SimpleData>
+		<SimpleData name="אחר">חניון רק לרכב דו גלגלי</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.756407,32.015648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">29</SimpleData>
+		<SimpleData name="שם חניה">חניון סביון</SimpleData>
+		<SimpleData name="כתובת">שדרות העצמאות 75</SimpleData>
+		<SimpleData name="LAT">32.028648</SimpleData>
+		<SimpleData name="LONG">34.749001</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.749001,32.028648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#ParkingLots">
+		<SimpleData name="מס'">30</SimpleData>
+		<SimpleData name="שם חניה">חניון חלפר</SimpleData>
+		<SimpleData name="כתובת">הלפר 19</SimpleData>
+		<SimpleData name="LAT">32.028179</SimpleData>
+		<SimpleData name="LONG">34.745701</SimpleData>
+		<SimpleData name="בתשלום">כן</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.745701,32.028179</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
